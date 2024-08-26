@@ -3,4 +3,4 @@
 ## 簡介
 使用Winsock API 來做TCP連線Client和Server，為每一組客戶連線建一個新的執行緒，讓它們可以同時進行遊戲。
 ## 詳細介紹與demo影片
-https://youtu.be/vabP2qyw6LQ
+https://www.youtube.com/watch?v=wJa_cFYPNxI
